@@ -18,3 +18,4 @@ temp_audio
 # Gizli dosyalar
 .env
 server/.env  <-- BU SATIR ÇOK ÖNEMLİ
+uploads
